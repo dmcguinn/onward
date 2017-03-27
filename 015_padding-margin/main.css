@@ -1,0 +1,33 @@
+div {
+  width: 100px;
+  height: 100px;
+  border: 1px groove blue;
+display: inline-block;
+}
+
+img {
+  border: 10px groove #39ffbe;
+  border-radius: 100%;
+    padding: 20px;
+    margin: 40px;
+}
+
+.onedog {
+  border: 10px dashed #ff847f;
+  border-radius: 100%;
+}
+
+.twodog {
+  border: 10px dotted orangered;
+  border-radius: 100%;
+}
+
+ .threedog{
+  border: 10px groove orangered;
+  border-radius: 100%;
+}
+
+.fourdog {
+  border: 10px groove orangered;
+  border-radius: 100%;
+}
