@@ -6,25 +6,27 @@ display: inline-block;
 }
 
 img {
+    width:200px;
+    box-sizing: border-box;
   border: 10px groove #39ffbe;
-  border-radius: 100%;
+  /*border-radius: 100%;*/
     padding: 20px;
-    margin: 40px;
+    /*margin: 40px;*/
 }
 
 .onedog {
   border: 10px dashed #ff847f;
-  border-radius: 100%;
+  /*border-radius: 100%;*/
 }
 
 .twodog {
   border: 10px dotted orangered;
-  border-radius: 100%;
+  /*border-radius: 100%;*/
 }
 
  .threedog{
   border: 10px groove orangered;
-  border-radius: 100%;
+  /*border-radius: 100%;*/
 }
 
 .fourdog {
