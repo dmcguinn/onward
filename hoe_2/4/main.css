@@ -4,3 +4,7 @@ div {
     border:40px dashed red;
     margin: 20px 60px 30px 40px;
 }
+
+.other {
+    box-sizing: border-box;
+}
