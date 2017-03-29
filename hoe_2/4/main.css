@@ -1,8 +1,8 @@
 div {
     width:400px;
     height:200px;
-    border:40px dashed red;
-    margin: 20px 60px 30px 40px;
+    border:10px dashed red;
+    margin: 20px auto;
 }
 
 .other {
