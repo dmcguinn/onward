@@ -1,3 +1,20 @@
 .emphasize {
     color: red;
 }
+
+#promote {
+    color: #402eff;
+}
+
+[contenteditable] {
+    color: red;
+    border: dashed 1px;
+}
+
+[src] {
+    border: 10px dashed red;
+}
+
+[href] {
+    border: 2px dashed green;
+}
