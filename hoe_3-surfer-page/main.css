@@ -1,0 +1,26 @@
+html {
+    background-color: #402eff;
+}
+
+div {
+    background-color: #26ff3e;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin:0 auto;
+    border-radius: 80% ;
+    border:groove 10px yellow;
+}
+
+#primary {
+    color: blue;
+}
+
+#secondary {
+    color: red;
+}
