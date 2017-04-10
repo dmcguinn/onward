@@ -1,0 +1,19 @@
+body {
+    font-size: 36px;
+}
+
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: green;
+}
+
+li:nth-child(even) {
+    color: blue;
+}
+
+li:nth-child(odd) {
+    color: #ffe547;
+}
