@@ -1,0 +1,12 @@
+html, body, h1{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 30rem;
+    /*text-shadow: 5px 5px 10px red;*/
+    text-shadow: 5px 5px 10px red;
+    text-align: center;
+}

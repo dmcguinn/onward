@@ -1,0 +1,16 @@
+p{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2rem;
+}
+
+#one{
+    font-weight: 300;
+}
+
+#two{
+    font-weight: 400;
+}
+
+#three{
+    font-weight: 900;
+}
