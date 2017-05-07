@@ -1,0 +1,16 @@
+html{
+    font-size: 15rem;
+}
+
+p{
+    color: lawngreen;
+
+    /*text-decoration: line-through underline overline;*/
+
+    text-decoration-line: underline;
+
+}
+
+a{
+    text-decoration: none;
+}

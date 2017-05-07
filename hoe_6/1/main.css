@@ -1,0 +1,55 @@
+html{
+    font-size: 3rem;
+}
+
+#ex1{
+    font-family: serif;
+}
+
+#ex2{
+    font-family: sans-serif;
+}
+
+#ex3a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+#ex3b{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+#ex4{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+#ex5{
+    font-family: sans-serif;
+    letter-spacing: 10px;
+}
+
+h1{
+    text-shadow: 5px 5px 10px red;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#ex8 {
+    font-family: sans-serif;
+    text-decoration: line-through;
+}
+
+#ex9 {
+    font-family: sans-serif;
+    text-indent: 25px;
+}
