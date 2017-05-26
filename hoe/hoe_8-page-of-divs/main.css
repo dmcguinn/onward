@@ -1,0 +1,24 @@
+div {
+    height: 50px;
+    width: 95px;
+    border: 1px solid black;
+    margin: .1em;
+    display: inline-block;
+    border-radius: 40%;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: blue;
+}
+
+.three {
+    background-color: yellow;
+}
+
+.four {
+    background-color: green;
+}
