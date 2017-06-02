@@ -1,0 +1,18 @@
+div {
+    /*flex-grow: 1;*/
+    width: 200px;
+    height:100px;
+    margin: 1em;
+    border: 1px solid red;
+    background-color: darkgray;
+    text-align: center;
+}
+
+/* body used as flex container */
+body {
+    display: flex;
+    /*flex-flow: row wrap;*/
+    /*flex-flow: row-reverse;*/
+    /*flex-flow: column;*/
+    flex-flow: column-reverse;
+}
