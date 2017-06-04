@@ -3,7 +3,7 @@
  */
 
 function  b() {
-    var myVar;
+    // var myVar;
     console.log("b - " + myVar);
 }
 
@@ -16,3 +16,4 @@ function  a() {
 var myVar = 1;
 console.log("global - " + myVar);
 a();
+console.log("global - " + myVar);

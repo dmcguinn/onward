@@ -1,0 +1,42 @@
+html {
+    /*font-size: 1em;*/
+    background-color: mediumseagreen;
+}
+
+li {
+    border: 2px solid #065a12;
+    border-radius: 50px;
+    display: inline-block;
+    background-color: gainsboro;
+    color: yellow;
+}
+
+li:hover {
+    background-color: #39ffbe;
+
+}
+
+a {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+    display: inline-block;
+    text-decoration: none;
+    /*color: palegoldenrod;*/
+}
+
+ul {
+    /*list-style: none;*/
+    list-style-type: none;
+}
+
+nav {
+    display: flex;
+
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: .5em;
+    text-align: left;
+}
