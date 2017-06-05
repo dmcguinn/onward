@@ -1,0 +1,9 @@
+html {
+    background-color: gainsboro;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: .5em;
+    text-align: left;
+}
